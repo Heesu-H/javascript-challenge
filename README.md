@@ -1,3 +1,3 @@
 # javascript-challenge
 
-To reset table, press enter with the filter input box selected and empty 
+To reset table, press enter while the filter input is empty 
